@@ -1,4 +1,4 @@
-# Course-From-Pulse-Shapes
+# JET ENERGY CALIBRATION IN SIMULATION
 Mini-project for the From Pulse Shapes to Physics
 
 # Jet Response Study
